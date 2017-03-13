@@ -1,0 +1,36 @@
+.Body
+{
+    padding: 20px 40px;
+    color:#7A7A7A;
+    font-weight: 900;
+}
+.map
+{
+    height: 600px;
+    display: inline-block;
+    float: left;
+    overflow: hidden;
+}
+.form
+{
+    display: inline-block;
+    float: left;
+    overflow: hidden;
+}
+.title
+{
+    font-size:x-large;
+    color:#A04B16;
+}
+.form input,textarea
+{
+    width: 80%;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin: 10px 0;
+    padding: 0px 10px;
+    font:20px  Arial, Helvetica, sans-serif;
+    color: gray;
+}
+
